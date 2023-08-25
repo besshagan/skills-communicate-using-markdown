@@ -11,3 +11,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+## Welcome to my task list:
+- [x] Wash your hands
+- [ ] Brush your teeth
+- [ ] Set your alarm for the morning
